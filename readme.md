@@ -15,3 +15,6 @@
 ## Stuff yet to be done:
 1. give image support
 2. 
+
+
+Made with ❤️ By [Arush-Bansal](https://github.com/Arush-Bansal)
